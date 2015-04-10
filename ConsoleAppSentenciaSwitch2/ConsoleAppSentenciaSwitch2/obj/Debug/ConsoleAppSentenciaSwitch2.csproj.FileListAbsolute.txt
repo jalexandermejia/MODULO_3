@@ -1,0 +1,5 @@
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\ConsoleAppSentenciaSwitch2\ConsoleAppSentenciaSwitch2\bin\Debug\ConsoleAppSentenciaSwitch2.exe.config
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\ConsoleAppSentenciaSwitch2\ConsoleAppSentenciaSwitch2\bin\Debug\ConsoleAppSentenciaSwitch2.exe
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\ConsoleAppSentenciaSwitch2\ConsoleAppSentenciaSwitch2\bin\Debug\ConsoleAppSentenciaSwitch2.pdb
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\ConsoleAppSentenciaSwitch2\ConsoleAppSentenciaSwitch2\obj\Debug\ConsoleAppSentenciaSwitch2.exe
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\ConsoleAppSentenciaSwitch2\ConsoleAppSentenciaSwitch2\obj\Debug\ConsoleAppSentenciaSwitch2.pdb

@@ -1,0 +1,6 @@
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\ConsoleAppWhile1\ConsoleAppWhile1\bin\Debug\ConsoleAppWhile1.exe.config
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\ConsoleAppWhile1\ConsoleAppWhile1\bin\Debug\ConsoleAppWhile1.exe
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\ConsoleAppWhile1\ConsoleAppWhile1\bin\Debug\ConsoleAppWhile1.pdb
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\ConsoleAppWhile1\ConsoleAppWhile1\obj\Debug\ConsoleAppWhile1.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\ConsoleAppWhile1\ConsoleAppWhile1\obj\Debug\ConsoleAppWhile1.exe
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\ConsoleAppWhile1\ConsoleAppWhile1\obj\Debug\ConsoleAppWhile1.pdb

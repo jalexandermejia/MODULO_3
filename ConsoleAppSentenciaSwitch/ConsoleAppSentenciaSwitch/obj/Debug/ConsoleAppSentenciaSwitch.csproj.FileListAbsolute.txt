@@ -1,0 +1,6 @@
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\ConsoleAppSentenciaSwitch\ConsoleAppSentenciaSwitch\bin\Debug\ConsoleAppSentenciaSwitch.exe.config
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\ConsoleAppSentenciaSwitch\ConsoleAppSentenciaSwitch\obj\Debug\ConsoleAppSentenciaSwitch.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\ConsoleAppSentenciaSwitch\ConsoleAppSentenciaSwitch\bin\Debug\ConsoleAppSentenciaSwitch.exe
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\ConsoleAppSentenciaSwitch\ConsoleAppSentenciaSwitch\bin\Debug\ConsoleAppSentenciaSwitch.pdb
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\ConsoleAppSentenciaSwitch\ConsoleAppSentenciaSwitch\obj\Debug\ConsoleAppSentenciaSwitch.exe
+c:\users\lab104bpc5\documents\visual studio 2012\Projects\ConsoleAppSentenciaSwitch\ConsoleAppSentenciaSwitch\obj\Debug\ConsoleAppSentenciaSwitch.pdb
